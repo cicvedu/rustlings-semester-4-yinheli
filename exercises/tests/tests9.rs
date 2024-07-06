@@ -39,8 +39,6 @@ mod Foo {
     fn my_demo_function(a: u32) -> u32 {
         a
     }
-
-
 }
 
 #[cfg(test)]
